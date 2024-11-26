@@ -45,7 +45,7 @@ CSS3: To style the 3D card and its elements.
 
 1. Clone this repository:
 
-git clone 
+git clone https://github.com/somparanidas/Merry-Christmas---3D-Card-.git
 
 
 2. Open the index.html file in any modern web browser.
